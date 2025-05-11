@@ -1,0 +1,1 @@
+# Dummy module for whale_activity_module.py

@@ -1,0 +1,1 @@
+# Dummy module for macd_module.py

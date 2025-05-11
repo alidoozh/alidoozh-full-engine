@@ -1,0 +1,1 @@
+# Backtest logic with signals and win rate
